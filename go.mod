@@ -1,3 +1,3 @@
-module github.com/iqbalatma/say-hello.git
+module github.com/iqbalatma/say-hello
 
 go 1.19
